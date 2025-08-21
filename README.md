@@ -23,10 +23,10 @@ The game gets faster and adds more synapses as you progress.
 ---
 
 ## 🛠 Tech Stack
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-
+- **React** (with TypeScript)  
+- **Vite** (for fast bundling & dev server)  
+- **Tailwind CSS** (for styling)
+ 
 ---
 
 ## 📌 License
